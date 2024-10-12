@@ -30,7 +30,7 @@ namespace _2._0_Division
             }
             else
             {
-                Console.WriteLine("Not devisible");
+                Console.WriteLine("Not divisible");
             }
         }
     }
