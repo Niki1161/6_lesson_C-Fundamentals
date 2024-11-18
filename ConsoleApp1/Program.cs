@@ -14,8 +14,7 @@
                 "Saturday",
                 "Friday",
                 "Saturday",
-                "Sunday",
-
+                "Sunday"
             };
 
             if (number >= 1 && number <= 7)
