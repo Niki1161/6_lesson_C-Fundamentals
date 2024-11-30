@@ -17,7 +17,7 @@ namespace regex1
             {
                 Console.Write(match.Value + " ");
             }
-            Console.WriteLine();
+            Console.WriteLine(matches);
         }
     }
 }
